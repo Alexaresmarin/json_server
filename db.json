@@ -1,41 +1,5 @@
 {
-  
-  "pokemons": [
-    {
-      "id": 1,
-      "num": 1,
-      "name": "bulbasaur",
-      "types": [
-        {
-          "slot": 1,
-          "type": {
-            "code": 1,
-            "name": "grass"
-          }
-        },
-        {
-          "slot": 2,
-          "type": {
-            "code": 2,
-            "name": "poison"
-          }
-        }
-      ],
-      "images": [
-        {
-          "front": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/front/1.png",
-          "back": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/back/1.png"
-        },
-        {
-          "front_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/front/1.png",
-          "back_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/back/1.png"
-        }
-      ],
-      "moves": {
-        "HM": [
-          "cut"
-        ]
-      }
-    }
+  "users": [
+
   ]
 }
